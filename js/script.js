@@ -865,7 +865,7 @@ shape.init();
 shape.print("❤");
 
 /* 只需要修改这里的文字就行 */
-let arr = ["宝贝", "儿童节快乐","你永远是老公的小宝贝", "别眨眼哦~"];
+let arr = ["宝贝", "儿童节快乐","你永远是","老公的小宝贝", "别眨眼哦~"];
 let i = -1;
 let time = setInterval(() => {
   if (i != arr.length - 1) {
